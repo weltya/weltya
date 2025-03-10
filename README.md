@@ -4,8 +4,7 @@
   Welcome to my GitHub profile !
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff00ff&center=true&width=700&lines=Computer+Science+Student;Passionate+about+Development;Always+Learning+New+Technologies
-  " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff00ff&center=true&width=700&lines=Computer+Science+Student;Passionate+about+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ## 📫 About me
